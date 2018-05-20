@@ -1,0 +1,30 @@
+abbr{
+    text-decoration-line: none;
+}
+div.top{
+    margin-top:20px;
+}
+dd.left{
+    text-align: left;
+} 
+img.logo{
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+}
+div.icon{
+    display: flex;
+    justify-content: space-between;
+    font-size: 28px;
+    margin-top: 20px;
+}
+div.icon2{
+    display: flex;
+    justify-content: space-between;
+    font-size: 28px;
+    margin-top: 70px;
+}
+
+dd.table{
+    font-size: 30px;
+}
